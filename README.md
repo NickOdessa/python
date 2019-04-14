@@ -1,2 +1,2 @@
 # python
-python_traning
+Python for testers
